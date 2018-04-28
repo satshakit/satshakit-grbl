@@ -763,11 +763,11 @@ design rules under a new name.</description>
 <attribute name="OC_FARNELL" value="unknown" x="88.6" y="26.3" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="88.6" y="26.3" size="1.778" layer="27" display="off"/>
 </element>
-<element name="ACC2" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="02P" package3d_urn="urn:adsk.eagle:package:5956/1" value="" x="91.3" y="68.6" rot="R180">
-<attribute name="MF" value="" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="ACC2" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="02P" package3d_urn="urn:adsk.eagle:package:5956/1" value="" x="91" y="68.3" rot="R180">
+<attribute name="MF" value="" x="91" y="68.3" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="91" y="68.3" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="91" y="68.3" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="91" y="68.3" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="EN" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="03P" package3d_urn="urn:adsk.eagle:package:5957/1" value="" x="68.95" y="26.1">
 <attribute name="MF" value="" x="68.95" y="26.1" size="1.778" layer="27" display="off"/>
@@ -1029,15 +1029,15 @@ design rules under a new name.</description>
 <contactref element="328-1" pad="23"/>
 <contactref element="ACC2" pad="1"/>
 <wire x1="79.6036" y1="57.118" x2="84.118" y2="57.118" width="0.3048" layer="1"/>
-<wire x1="92.57" y1="65.57" x2="92.57" y2="68.6" width="0.3048" layer="1"/>
-<wire x1="84.118" y1="57.118" x2="92.57" y2="65.57" width="0.3048" layer="1"/>
+<wire x1="84.118" y1="57.118" x2="92.27" y2="65.27" width="0.3048" layer="1"/>
+<wire x1="92.27" y1="65.27" x2="92.27" y2="68.3" width="0.3048" layer="1"/>
 </signal>
 <signal name="FEEDHOLD">
 <contactref element="328-1" pad="24"/>
 <contactref element="ACC2" pad="2"/>
 <wire x1="79.8576" y1="57.918" x2="82.518" y2="57.918" width="0.3048" layer="1"/>
-<wire x1="90.03" y1="65.43" x2="90.03" y2="68.6" width="0.3048" layer="1"/>
-<wire x1="82.518" y1="57.918" x2="90.03" y2="65.43" width="0.3048" layer="1"/>
+<wire x1="82.518" y1="57.918" x2="89.73" y2="65.13" width="0.3048" layer="1"/>
+<wire x1="89.73" y1="65.13" x2="89.73" y2="68.3" width="0.3048" layer="1"/>
 </signal>
 <signal name="COOLANT">
 <contactref element="328-1" pad="26"/>
