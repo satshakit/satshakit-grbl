@@ -721,11 +721,11 @@ design rules under a new name.</description>
 <element name="R3" library="01_SparkFun" package="1206" value="4.7K" x="76.7135" y="44.782" rot="R180"/>
 <element name="R4" library="01_SparkFun" package="1206" value="4.7K" x="78.593" y="41.47" rot="R180"/>
 <element name="R5" library="01_SparkFun" package="1206" value="4.7K" x="82.0265" y="46.2795" rot="R90"/>
-<element name="RESETS" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="02P" package3d_urn="urn:adsk.eagle:package:5956/1" value="" x="60.312" y="68.7805" rot="R180">
-<attribute name="MF" value="" x="60.312" y="68.7805" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="" x="60.312" y="68.7805" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="60.312" y="68.7805" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="60.312" y="68.7805" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="RESETS" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="02P" package3d_urn="urn:adsk.eagle:package:5956/1" value="" x="61.212" y="68.2805" rot="R180">
+<attribute name="MF" value="" x="61.212" y="68.2805" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="61.212" y="68.2805" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="61.212" y="68.2805" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="61.212" y="68.2805" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="DIRECTIONS" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="03P" package3d_urn="urn:adsk.eagle:package:5957/1" value="" x="59.598" y="26.047">
 <attribute name="MF" value="" x="59.598" y="26.047" size="1.778" layer="27" display="off"/>
@@ -768,18 +768,6 @@ design rules under a new name.</description>
 <attribute name="MPN" value="" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="91.3" y="68.6" size="1.778" layer="27" rot="R180" display="off"/>
-</element>
-<element name="PULSEYZ" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="02P" package3d_urn="urn:adsk.eagle:package:5956/1" value="" x="67.1" y="68.5" rot="R180">
-<attribute name="MF" value="" x="67.1" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="" x="67.1" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="67.1" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="67.1" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-</element>
-<element name="PULSEX-SERIAL" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="03P" package3d_urn="urn:adsk.eagle:package:5957/1" value="" x="74.9" y="68.5" rot="R180">
-<attribute name="MF" value="" x="74.9" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="" x="74.9" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="74.9" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="74.9" y="68.5" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="EN" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="03P" package3d_urn="urn:adsk.eagle:package:5957/1" value="" x="68.95" y="26.1">
 <attribute name="MF" value="" x="68.95" y="26.1" size="1.778" layer="27" display="off"/>
@@ -828,6 +816,18 @@ design rules under a new name.</description>
 <attribute name="MPN" value="" x="56.1" y="33" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="56.1" y="33" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="56.1" y="33" size="1.778" layer="27" rot="R270" display="off"/>
+</element>
+<element name="SERIAL" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="02P" package3d_urn="urn:adsk.eagle:package:5956/1" value="" x="74.7" y="68.2" rot="R180">
+<attribute name="MF" value="" x="74.7" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="74.7" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="74.7" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="74.7" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+</element>
+<element name="PULSES" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" package="03P" package3d_urn="urn:adsk.eagle:package:5957/1" value="" x="68" y="68.2" rot="R180">
+<attribute name="MF" value="" x="68" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="68" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="68" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="68" y="68.2" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 </elements>
 <signals>
@@ -1001,29 +1001,29 @@ design rules under a new name.</description>
 <signal name="RST-FTDI">
 <contactref element="C6" pad="2"/>
 <contactref element="RESETS" pad="2"/>
-<wire x1="58.536" y1="56.936" x2="58.9" y2="57.3" width="0.3048" layer="1"/>
-<wire x1="58.536" y1="56.936" x2="58.403" y2="56.936" width="0.3048" layer="1"/>
-<wire x1="58.9" y1="68.6385" x2="59.042" y2="68.7805" width="0.3048" layer="1"/>
-<wire x1="58.9" y1="57.3" x2="58.9" y2="68.6385" width="0.3048" layer="1"/>
+<wire x1="58.403" y1="56.936" x2="58.403" y2="58.303" width="0.3048" layer="1"/>
+<wire x1="58.403" y1="58.303" x2="59.6" y2="59.5" width="0.3048" layer="1"/>
+<wire x1="59.6" y1="59.5" x2="59.6" y2="67.9385" width="0.3048" layer="1"/>
+<wire x1="59.6" y1="67.9385" x2="59.942" y2="68.2805" width="0.3048" layer="1"/>
 </signal>
 <signal name="RST">
 <contactref element="R1" pad="2"/>
 <contactref element="328-1" pad="29"/>
 <contactref element="C6" pad="1"/>
 <contactref element="RESETS" pad="1"/>
-<wire x1="75.038" y1="59.2836" x2="75.038" y2="57.2" width="0.3048" layer="1"/>
-<wire x1="75.038" y1="57.2" x2="73.4" y2="57.2" width="0.3048" layer="1"/>
 <wire x1="61.203" y1="51.3234" x2="61.181" y2="51.3014" width="0.3048" layer="1"/>
 <wire x1="61.203" y1="51.3234" x2="61.203" y2="56.936" width="0.3048" layer="1"/>
-<wire x1="61.582" y1="68.7805" x2="61.203" y2="68.4015" width="0.3048" layer="1"/>
-<wire x1="61.203" y1="56.936" x2="61.203" y2="68.4015" width="0.3048" layer="1"/>
-<wire x1="63.2" y1="71.6" x2="61.6" y2="70" width="0.3048" layer="1"/>
-<wire x1="61.6" y1="70" x2="61.6" y2="68.7985" width="0.3048" layer="1"/>
-<wire x1="61.6" y1="68.7985" x2="61.582" y2="68.7805" width="0.3048" layer="1"/>
-<wire x1="70.4" y1="60.2" x2="70.4" y2="70.7" width="0.3048" layer="1"/>
-<wire x1="70.4" y1="70.7" x2="69.5" y2="71.6" width="0.3048" layer="1"/>
-<wire x1="69.5" y1="71.6" x2="63.2" y2="71.6" width="0.3048" layer="1"/>
-<wire x1="73.4" y1="57.2" x2="70.4" y2="60.2" width="0.3048" layer="1"/>
+<wire x1="61.203" y1="56.936" x2="61.203" y2="65.303" width="0.3048" layer="1"/>
+<wire x1="61.203" y1="65.303" x2="62.5" y2="66.6" width="0.3048" layer="1"/>
+<wire x1="62.5" y1="66.6" x2="62.5" y2="68.2625" width="0.3048" layer="1"/>
+<wire x1="62.482" y1="68.2805" x2="62.5" y2="68.2625" width="0.3048" layer="1"/>
+<wire x1="75.038" y1="59.2836" x2="75.038" y2="63.238" width="0.3048" layer="1"/>
+<wire x1="75.038" y1="63.238" x2="78.4" y2="66.6" width="0.3048" layer="1"/>
+<wire x1="78.4" y1="66.6" x2="78.4" y2="70.5" width="0.3048" layer="1"/>
+<wire x1="78.4" y1="70.5" x2="77.9" y2="71" width="0.3048" layer="1"/>
+<wire x1="77.9" y1="71" x2="64.2" y2="71" width="0.3048" layer="1"/>
+<wire x1="62.482" y1="69.282" x2="62.482" y2="68.2805" width="0.3048" layer="1"/>
+<wire x1="64.2" y1="71" x2="62.482" y2="69.282" width="0.3048" layer="1"/>
 </signal>
 <signal name="ABORT">
 <contactref element="328-1" pad="23"/>
@@ -1059,32 +1059,35 @@ design rules under a new name.</description>
 </signal>
 <signal name="RX">
 <contactref element="328-1" pad="30"/>
-<contactref element="PULSEX-SERIAL" pad="1"/>
-<wire x1="74.238" y1="64.138" x2="77.4" y2="67.3" width="0.3048" layer="1"/>
-<wire x1="77.4" y1="67.3" x2="77.4" y2="68.46" width="0.3048" layer="1"/>
-<wire x1="77.4" y1="68.46" x2="77.44" y2="68.5" width="0.3048" layer="1"/>
 <wire x1="74.238" y1="59.2836" x2="74.238" y2="64.138" width="0.3048" layer="1"/>
+<contactref element="SERIAL" pad="1"/>
+<wire x1="74.238" y1="64.138" x2="75.97" y2="65.87" width="0.3048" layer="1"/>
+<wire x1="75.97" y1="65.87" x2="75.97" y2="68.2" width="0.3048" layer="1"/>
 </signal>
 <signal name="PULSE-X">
 <contactref element="328-1" pad="32"/>
-<contactref element="PULSEX-SERIAL" pad="3"/>
-<wire x1="72.36" y1="68.5" x2="72.638" y2="68.222" width="0.3048" layer="1"/>
-<wire x1="72.638" y1="68.222" x2="72.638" y2="59.5376" width="0.3048" layer="1"/>
+<contactref element="PULSES" pad="1"/>
+<wire x1="70.54" y1="68.2" x2="70.54" y2="65.76" width="0.3048" layer="1"/>
+<wire x1="70.54" y1="65.76" x2="72.6" y2="63.7" width="0.3048" layer="1"/>
+<wire x1="72.6" y1="63.7" x2="72.6" y2="59.5756" width="0.3048" layer="1"/>
+<wire x1="72.6" y1="59.5756" x2="72.638" y2="59.5376" width="0.3048" layer="1"/>
 </signal>
 <signal name="PULSE-Y">
 <contactref element="328-1" pad="1"/>
-<contactref element="PULSEYZ" pad="1"/>
 <wire x1="71.0184" y1="57.918" x2="69.582" y2="57.918" width="0.3048" layer="1"/>
-<wire x1="69.582" y1="57.918" x2="68.7" y2="58.8" width="0.3048" layer="1"/>
-<wire x1="68.7" y1="58.8" x2="68.7" y2="68.17" width="0.3048" layer="1"/>
-<wire x1="68.7" y1="68.17" x2="68.37" y2="68.5" width="0.3048" layer="1"/>
+<contactref element="PULSES" pad="2"/>
+<wire x1="68.2" y1="59.3" x2="68.2" y2="68" width="0.3048" layer="1"/>
+<wire x1="68.2" y1="68" x2="68" y2="68.2" width="0.3048" layer="1"/>
+<wire x1="69.582" y1="57.918" x2="68.2" y2="59.3" width="0.3048" layer="1"/>
 </signal>
 <signal name="PULSE-Z">
 <contactref element="328-1" pad="2"/>
-<contactref element="PULSEYZ" pad="2"/>
 <wire x1="71.2724" y1="57.118" x2="68.882" y2="57.118" width="0.3048" layer="1"/>
-<wire x1="68.882" y1="57.118" x2="65.83" y2="60.17" width="0.3048" layer="1"/>
-<wire x1="65.83" y1="60.17" x2="65.83" y2="68.5" width="0.3048" layer="1"/>
+<contactref element="PULSES" pad="3"/>
+<wire x1="68.882" y1="57.118" x2="66" y2="60" width="0.3048" layer="1"/>
+<wire x1="66" y1="60" x2="66" y2="67.5" width="0.3048" layer="1"/>
+<wire x1="66" y1="67.5" x2="65.46" y2="68.04" width="0.3048" layer="1"/>
+<wire x1="65.46" y1="68.04" x2="65.46" y2="68.2" width="0.3048" layer="1"/>
 </signal>
 <signal name="DIRECTION-X">
 <contactref element="328-1" pad="9"/>
@@ -1206,10 +1209,9 @@ design rules under a new name.</description>
 </signal>
 <signal name="TX">
 <contactref element="328-1" pad="31"/>
-<contactref element="PULSEX-SERIAL" pad="2"/>
-<wire x1="73.438" y1="59.2836" x2="73.438" y2="65.838" width="0.3048" layer="1"/>
-<wire x1="73.438" y1="65.838" x2="74.9" y2="67.3" width="0.3048" layer="1"/>
-<wire x1="74.9" y1="67.3" x2="74.9" y2="68.5" width="0.3048" layer="1"/>
+<contactref element="SERIAL" pad="2"/>
+<wire x1="73.438" y1="68.192" x2="73.43" y2="68.2" width="0.3048" layer="1"/>
+<wire x1="73.438" y1="59.2836" x2="73.438" y2="68.192" width="0.3048" layer="1"/>
 </signal>
 </signals>
 </board>

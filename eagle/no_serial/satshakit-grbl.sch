@@ -1444,8 +1444,6 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="LIMIT-Y" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M02" device="" package3d_urn="urn:adsk.eagle:package:5956/1"/>
 <part name="LIMIT-Z" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M02" device="" package3d_urn="urn:adsk.eagle:package:5956/1"/>
 <part name="ACC2" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M02" device="" package3d_urn="urn:adsk.eagle:package:5956/1"/>
-<part name="PULSEYZ" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M02" device="" package3d_urn="urn:adsk.eagle:package:5956/1"/>
-<part name="PULSEX-SERIAL" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
 <part name="EN" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
 <part name="5V2" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
 <part name="5V1" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
@@ -1454,6 +1452,8 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="GND3" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
 <part name="GND4" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
 <part name="POWER" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M02" device="" package3d_urn="urn:adsk.eagle:package:5956/1"/>
+<part name="PULSES" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
+<part name="SERIAL" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="M02" device="" package3d_urn="urn:adsk.eagle:package:5956/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -1485,8 +1485,6 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <instance part="LIMIT-Y" gate="G$1" x="139.7" y="59.69" rot="R180"/>
 <instance part="LIMIT-Z" gate="G$1" x="139.7" y="49.53" rot="R180"/>
 <instance part="ACC2" gate="G$1" x="140.97" y="105.41" rot="R180"/>
-<instance part="PULSEYZ" gate="G$1" x="180.34" y="16.51" rot="R180"/>
-<instance part="PULSEX-SERIAL" gate="G$1" x="180.34" y="102.87" rot="R180"/>
 <instance part="EN" gate="G$1" x="139.7" y="86.36" rot="R180"/>
 <instance part="5V2" gate="G$1" x="139.7" y="31.75" rot="R180"/>
 <instance part="5V1" gate="G$1" x="139.7" y="20.32" rot="R180"/>
@@ -1495,6 +1493,8 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <instance part="GND3" gate="G$1" x="139.7" y="135.89" rot="R180"/>
 <instance part="GND4" gate="G$1" x="180.34" y="135.89" rot="R180"/>
 <instance part="POWER" gate="G$1" x="180.34" y="153.67" rot="R180"/>
+<instance part="PULSES" gate="G$1" x="180.34" y="13.97" rot="R180"/>
+<instance part="SERIAL" gate="G$1" x="180.34" y="105.41" rot="R180"/>
 </instances>
 <busses>
 </busses>
@@ -1845,7 +1845,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <segment>
 <wire x1="172.72" y1="105.41" x2="167.64" y2="105.41" width="0.1524" layer="91"/>
 <label x="167.64" y="105.41" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="PULSEX-SERIAL" gate="G$1" pin="1"/>
+<pinref part="SERIAL" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="PULSE-X" class="0">
@@ -1855,9 +1855,9 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <label x="81.28" y="50.8" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="PULSEX-SERIAL" gate="G$1" pin="3"/>
-<wire x1="172.72" y1="100.33" x2="167.64" y2="100.33" width="0.1524" layer="91"/>
-<label x="167.64" y="100.33" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="172.72" y1="16.51" x2="167.64" y2="16.51" width="0.1524" layer="91"/>
+<label x="167.64" y="16.51" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="PULSES" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="PULSE-Y" class="0">
@@ -1867,9 +1867,9 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <label x="81.28" y="48.26" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="172.72" y1="16.51" x2="167.64" y2="16.51" width="0.1524" layer="91"/>
-<label x="167.64" y="16.51" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="PULSEYZ" gate="G$1" pin="1"/>
+<wire x1="172.72" y1="13.97" x2="167.64" y2="13.97" width="0.1524" layer="91"/>
+<label x="167.64" y="13.97" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="PULSES" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="PULSE-Z" class="0">
@@ -1879,9 +1879,9 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <label x="81.28" y="45.72" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="172.72" y1="13.97" x2="167.64" y2="13.97" width="0.1524" layer="91"/>
-<label x="167.64" y="13.97" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="PULSEYZ" gate="G$1" pin="2"/>
+<pinref part="PULSES" gate="G$1" pin="3"/>
+<wire x1="172.72" y1="11.43" x2="167.64" y2="11.43" width="0.1524" layer="91"/>
+<label x="167.64" y="11.43" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="DIRECTION-X" class="0">
@@ -2046,7 +2046,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <segment>
 <wire x1="172.72" y1="102.87" x2="167.64" y2="102.87" width="0.1524" layer="91"/>
 <label x="167.64" y="102.87" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="PULSEX-SERIAL" gate="G$1" pin="2"/>
+<pinref part="SERIAL" gate="G$1" pin="2"/>
 </segment>
 </net>
 </nets>
