@@ -30,18 +30,18 @@ And here the schematic and the board of the **noserial** version:
 downloads
 --
 
-- **[satshakit grbl serial schematic](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/serial/satshakit-grbl.sch)**
-- **[satshakit grbl serial board](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/serial/satshakit-grbl.brd)**
-- **[satshakit grbl serial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_s.png)**
-- **[satshakit grbl serial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_s.png)**
+- **[satshakit-grbl serial schematic](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/serial/satshakit-grbl.sch)**
+- **[satshakit-grbl serial board](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/serial/satshakit-grbl.brd)**
+- **[satshakit-grbl serial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_s.png)**
+- **[satshakit-grbl serial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_s.png)**
 
-- **[satshakit grbl noserial schematic](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/no_serial/satshakit-grbl.sch)**
-- **[satshakit grbl noserial board](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/no_serial/satshakit-grbl.brd)**
-- **[satshakit grbl noserial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_ns.png)**
-- **[satshakit grbl noserial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_ns.png)**
+- **[satshakit-grbl noserial schematic](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/no_serial/satshakit-grbl.sch)**
+- **[satshakit-grbl noserial board](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/no_serial/satshakit-grbl.brd)**
+- **[satshakit-grbl noserial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_ns.png)**
+- **[satshakit-grbl noserial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_ns.png)**
 
-- **[satshakit grbl BOM xlsx](https://github.com/satshakit/satshakit-grbl/raw/master/bom/satshakit-grbl-bom.xlsx)**
-- **[satshakit grbl BOM ods](https://github.com/satshakit/satshakit-grbl/raw/master/bom/satshakit-grbl-bom.ods)**
+- **[satshakit-grbl BOM xlsx](https://github.com/satshakit/satshakit-grbl/raw/master/bom/satshakit-grbl-bom.xlsx)**
+- **[satshakit-grbl BOM ods](https://github.com/satshakit/satshakit-grbl/raw/master/bom/satshakit-grbl-bom.ods)**
 
 getting started
 --
