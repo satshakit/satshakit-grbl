@@ -16,6 +16,7 @@ Here the **features** of the satshakit-grbl:
 - logically disposed **grbl pinout**
 - 2.54mm pitch **wire to board connectors** compatibility
 - **multiple GNDs and VCCs** to connect all the required drivers/switches
+- cost of about **4€** (serial version)
 
 Here are the schematic and the board of the **serial** version:
 <img src="media/schematic_s.png" width="80%">
@@ -39,6 +40,8 @@ downloads
 - **[satshakit grbl noserial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_ns.png)**
 - **[satshakit grbl noserial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_ns.png)**
 
+- **[satshakit grbl BOM xlsx](https://github.com/satshakit/satshakit-grbl/raw/master/BOM/satshakit-grbl-bom.xlsx)**
+- **[satshakit grbl BOM ods](https://github.com/satshakit/satshakit-grbl/raw/master/BOM/satshakit-grbl-bom.ods)**
 
 getting started
 --
@@ -57,6 +60,10 @@ Finally, to **connect your satshakit-grbl to your machine**, here the **pinouts*
 <img src="media/pinout_s.png" width="70%">
 
 <img src="media/pinout_ns.png" width="70%">
+
+media
+--
+
 
 
 License
