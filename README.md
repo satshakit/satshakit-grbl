@@ -64,6 +64,19 @@ Finally, to **connect your satshakit-grbl to your machine**, here the **pinouts*
 media
 --
 
+<img src="media/together2.jpg" width="70%">
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=X_8pmGTXizk
+" target="_blank"><img src="http://img.youtube.com/vi/X_8pmGTXizk/0.jpg" 
+alt="http://img.youtube.com/vi/X_8pmGTXizk/0.jpg" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=872j3m5o4J4
+" target="_blank"><img src="http://img.youtube.com/vi/872j3m5o4J4/0.jpg" 
+alt="http://img.youtube.com/vi/872j3m5o4J4/0.jpg" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Gfqbucpjgt0
+" target="_blank"><img src="http://img.youtube.com/vi/Gfqbucpjgt0/0.jpg" 
+alt="http://img.youtube.com/vi/Gfqbucpjgt0/0.jpg" width="240" height="180" border="10" /></a>
 
 
 License
