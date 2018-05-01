@@ -11,7 +11,7 @@ Here the **features** of the satshakit-grbl:
 
 - **Atmega328p** for maximum compatibility with grbl
 - **CH340G** and **USB** (serial version)
-- **USB programming** and **serial communication**(serial version)
+- **USB programming** and **serial communication** (serial version)
 - **endstop noise filtering**
 - logically disposed **grbl pinout**
 - 2.54mm pitch **wire to board connectors** compatibility
@@ -34,8 +34,8 @@ downloads
 - **[satshakit grbl serial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_s.png)**
 - **[satshakit grbl serial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_s.png)**
 
-- **[satshakit grbl noserial schematic](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/noserial/satshakit-grbl.sch)**
-- **[satshakit grbl noserial board](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/noserial/satshakit-grbl.brd)**
+- **[satshakit grbl noserial schematic](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/no_serial/satshakit-grbl.sch)**
+- **[satshakit grbl noserial board](https://github.com/satshakit/satshakit-grbl/raw/master/eagle/no_serial/satshakit-grbl.brd)**
 - **[satshakit grbl noserial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_ns.png)**
 - **[satshakit grbl noserial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_ns.png)**
 
