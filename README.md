@@ -40,8 +40,8 @@ downloads
 - **[satshakit grbl noserial internal png](https://github.com/satshakit/satshakit-grbl/raw/master/media/internal_ns.png)**
 - **[satshakit grbl noserial external png](https://github.com/satshakit/satshakit-grbl/raw/master/media/external_ns.png)**
 
-- **[satshakit grbl BOM xlsx](https://github.com/satshakit/satshakit-grbl/raw/master/BOM/satshakit-grbl-bom.xlsx)**
-- **[satshakit grbl BOM ods](https://github.com/satshakit/satshakit-grbl/raw/master/BOM/satshakit-grbl-bom.ods)**
+- **[satshakit grbl BOM xlsx](https://github.com/satshakit/satshakit-grbl/raw/master/bom/satshakit-grbl-bom.xlsx)**
+- **[satshakit grbl BOM ods](https://github.com/satshakit/satshakit-grbl/raw/master/bom/satshakit-grbl-bom.ods)**
 
 getting started
 --
