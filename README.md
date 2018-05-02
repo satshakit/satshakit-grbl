@@ -67,6 +67,7 @@ media
 
 **images:**
 
+<img src="media/laser.jpg" width="70%">
 <img src="media/boards.jpg" width="70%">
 <img src="media/serial.jpg" width="70%">
 <img src="media/noserial.jpg" width="70%">
