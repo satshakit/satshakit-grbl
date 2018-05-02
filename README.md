@@ -1,4 +1,5 @@
 <div align="center"><h1 style="font-family: courier;" align="center">satshakit-grbl</h1></div>
+<div align="center"><img src="media/together3.jpg" width="70%"></div>
 <div align="center"><i>An open source & fabbable GRBL controller board.</i></div>
 
 satshakit-grbl
@@ -63,6 +64,15 @@ Finally, to **connect your satshakit-grbl to your machine**, here the **pinouts*
 
 media
 --
+
+**images:**
+
+<img src="media/boards.jpg" width="70%">
+<img src="media/serial.jpg" width="70%">
+<img src="media/noserial.jpg" width="70%">
+<img src="media/together2.jpg" width="70%">
+
+**videos:**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X_8pmGTXizk
 " target="_blank"><img src="http://img.youtube.com/vi/X_8pmGTXizk/0.jpg" 
