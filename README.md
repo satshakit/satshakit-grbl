@@ -90,7 +90,7 @@ alt="http://img.youtube.com/vi/Gfqbucpjgt0/0.jpg" width="240" height="180" borde
 
 License
 --
-This work is licensed under the terms of Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+This work is licensed under the terms of the open source license: Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
 Disclaimer  
 --
